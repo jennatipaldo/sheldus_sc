@@ -12,11 +12,19 @@ Data can be accessed at https://sheldus.asu.edu/. You can create an account and 
 
 ### Query Settings
 I used the following settings in my query:
+
 Search By:	Location and Dates
+
 Adjustment Year:	2023
+
 States: SOUTH CAROLINA
+
 Counties: All
+
 Date Range:	2011-01-01 to 2023-12-31
+
 Hazards & Perils:	All
+
 Loss Types:	Fatalities, Injuries, Property Losses
+
 Aggregate By:	Month, Hazard, County, Year
