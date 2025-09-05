@@ -1,2 +1,22 @@
-# sheldus_sc
-SHELDUS for South Carolina (publicly available data)
+# SHELDUS for South Carolina
+This repository provides code to analyze the publicly available SHELDUS data for South Carolina.  
+
+## Data Source
+The data that this code analyzes is for publicly available data from SHELDUS (the Spatial Hazard Events and Losses Database for the United States), a county-level dataset for the United States with information on natural hazards, including events, type of hazard, losses, injuries, and fatalities. 
+
+### Citation
+ASU Center for Emergency Management and Homeland Security (2025). The Spatial Hazard Events and Losses Database for the United States, Version 23.0 [Online Database]. Phoenix, AZ: Arizona State University. Available from https://sheldus.org.
+
+## Accessing data
+Data can be accessed at https://sheldus.asu.edu/. You can create an account and some data, such as the data for the state of South Carolina, is available for free. 
+
+### Query Settings
+I used the following settings in my query:
+Search By:	Location and Dates
+Adjustment Year:	2023
+States: SOUTH CAROLINA
+Counties: All
+Date Range:	2011-01-01 to 2023-12-31
+Hazards & Perils:	All
+Loss Types:	Fatalities, Injuries, Property Losses
+Aggregate By:	Month, Hazard, County, Year
