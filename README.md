@@ -1,5 +1,5 @@
 # SHELDUS for South Carolina
-This repository provides code to analyze the publicly available SHELDUS data for South Carolina.  
+This repository provides code to analyze the publicly available SHELDUS data for South Carolina.  This is example code that was created for workshops held by the virtual [Center for Aging, Climate, and Health (CACHE)](https://agingclimatehealth.org/).
 
 ## Data Source
 The data that this code analyzes is for publicly available data from SHELDUS (the Spatial Hazard Events and Losses Database for the United States), a county-level dataset for the United States with information on natural hazards, including events, type of hazard, losses, injuries, and fatalities. 
