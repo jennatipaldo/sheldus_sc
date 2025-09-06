@@ -1,4 +1,4 @@
-# SHELDUS for South Carolina
+# About
 This repository provides code to analyze publicly available SHELDUS data for South Carolina.  This is example code that was created for workshops held by the virtual [Center for Aging, Climate, and Health (CACHE)](https://agingclimatehealth.org/).
 
 ## Data Source
