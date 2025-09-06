@@ -8,7 +8,7 @@ The data that this code analyzes is for publicly available data from SHELDUS (th
 ASU Center for Emergency Management and Homeland Security (2025). The Spatial Hazard Events and Losses Database for the United States, Version 23.0 [Online Database]. Phoenix, AZ: Arizona State University. Available from [SHELDUS](https://sheldus.org).
 
 ## Accessing data
-Data can be accessed at [SHELDUS](https://sheldus.asu.edu/). You can create an account and some data, such as the data for the state of South Carolina, is available for free. 
+Data can be accessed at [SHELDUS](https://sheldus.asu.edu/) - you will need to create an account. Some data, such as the data for the state of South Carolina, is available for free. 
 
 ### Query Settings
 I used the following settings in my query:
