@@ -15,7 +15,7 @@ I used the following settings in my query:
 
 Search By:	Location and Dates
 
-Adjustment Year:	2023
+Adjustment Year:	2022
 
 States: SOUTH CAROLINA
 
