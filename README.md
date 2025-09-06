@@ -21,7 +21,7 @@ States: SOUTH CAROLINA
 
 Counties: All
 
-Date Range:	2011-01-01 to 2023-12-31
+Date Range:	2012-01-01 to 2021-12-31
 
 Hazards & Perils:	All
 
