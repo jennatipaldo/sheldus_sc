@@ -42,7 +42,7 @@ SHELDUS<-read.csv("") #put the file name in the quotes
 colnames(SHELDUS)
 
 # Get a preview of the data
-head(SHELDUS)
+head(SHELDUS) #head() shows the first few rows of data, alternatively try tail()
 
 # View the structure of the dataframe including variable names, types, and a preview of the data
 str(SHELDUS)
