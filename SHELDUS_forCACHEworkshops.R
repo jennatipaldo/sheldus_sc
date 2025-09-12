@@ -14,11 +14,6 @@ for (pkg in packages) {
   if (!requireNamespace(pkg, quietly = TRUE)) install.packages(pkg, dependencies=TRUE)
 }
 
-#if (!require(dplyr)) install.packages("dplyr", dependencies=TRUE)
-#load packages 
-
-#lapply(packages, library, character.only = TRUE) #load them all in one step
-
 #load them one-by-one
 library(tidyverse) #tidyverse helps with data cleaning
 library(tigris) #tigris pulls census data and shapefiles (requires internet connection)
